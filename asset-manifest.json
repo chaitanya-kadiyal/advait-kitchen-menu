@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Advait-kitchen-menu/static/css/main.6e6d1778.css",
+    "main.js": "/Advait-kitchen-menu/static/js/main.4889bf35.js",
+    "index.html": "/Advait-kitchen-menu/index.html",
+    "main.6e6d1778.css.map": "/Advait-kitchen-menu/static/css/main.6e6d1778.css.map",
+    "main.4889bf35.js.map": "/Advait-kitchen-menu/static/js/main.4889bf35.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e6d1778.css",
+    "static/js/main.4889bf35.js"
+  ]
+}
