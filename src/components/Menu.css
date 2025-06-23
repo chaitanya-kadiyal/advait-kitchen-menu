@@ -1,0 +1,26 @@
+.menu-section {
+  margin-bottom: 2.5rem;
+}
+.menu-section h2 {
+  border-bottom: 2px solid #ffe2b0;
+  padding-bottom: 0.3em;
+  margin-bottom: 0.8em;
+  color: #b15d1e;
+  font-weight: bold;
+}
+.menu-item {
+  display: flex;
+  justify-content: space-between;
+  padding: 0.5em 0.2em;
+  border-bottom: 1px dashed #e9c896;
+  font-size: 1.15em;
+}
+.menu-item-name {
+  flex: 1;
+}
+.menu-item-price {
+  min-width: 70px;
+  text-align: right;
+  font-weight: bold;
+  color: #c97f1d;
+}
