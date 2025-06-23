@@ -2,11 +2,12 @@
   "name": "Advait kitchen",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://chaitanya-kadiyal.github.io/Advait-kitchen-menu",
   "dependencies": {
-    "gh-pages": "^6.3.0",
     "react": "^18.3.0",
     "react-dom": "^18.3.0",
-    "react-scripts": "5.0.1"
+    "react-scripts": "5.0.1",
+    "gh-pages": "^6.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -27,6 +28,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "homepage": "https://chaitanya-kadiyal.github.io/Advait-kitchen-menu"
+  }
 }
