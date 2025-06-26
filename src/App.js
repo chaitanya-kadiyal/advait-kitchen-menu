@@ -18,8 +18,23 @@ function App() {
       <main>
         <Menu />
       </main>
-      <footer>
-        <p>&copy; {new Date().getFullYear()} Advait Kitchen</p>
+      <footer style={{
+        background: '#f9f9f9',
+        padding: '2rem 0',
+        textAlign: 'center',
+        borderTop: '1px solid #eee',
+        marginTop: '2rem'
+      }}>
+        <h2>Contact Us</h2>
+        <p>To place orders call, text, or WhatsApp: <a href="tel:9016027007">901-602-7007</a></p>
+        <p>
+          <a href="sms:9016027007" style={{marginRight: '1rem'}}>Text</a>
+          <a href="https://wa.me/9016027007" target="_blank" rel="noopener noreferrer">WhatsApp</a>
+        </p>
+        <hr style={{margin: '2rem 0', borderColor: '#eee'}} />
+        <p style={{fontSize: '0.9rem', color: '#888'}}>
+         &copy; {new Date().getFullYear()} Advait Kitchen LLC. All rights reserved.
+        </p>
       </footer>
     </div>
   );
