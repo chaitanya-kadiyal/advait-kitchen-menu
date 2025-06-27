@@ -23,6 +23,21 @@
     {"name": "Kadhi", "price": 9.99},
     {"name": "Kadi vada", "price": 12.99}
   ],
+  "DESI SNACKS":[
+    {"name": "Special Pav-bhaji", "price":	12.99},
+    {"name": "Ragda patties", "price":	11.99},
+    {"name": "Kala Channa Chat", "price":	9.99},
+    {"name": "Chilli paneer", "price":	14.99},
+    {"name": "Chilli potato", "price":	12.99},
+    {"name": "Veg haka noodles", "price":	12.99},
+    {"name": "Papadi chaat", "price":	12.99},
+    {"name": "Khaman Dhokla", "price":	9.99},
+    {"name": "Poha", "price":	9.99},
+    {"name": "Mix Veg Upma", "price":	9.99},
+    {"name": "Idali 6piece", "price":	11.99},
+    {"name": "Appam 12piece", "price":	11.99},
+    {"name": "Marmara Bhel", "price":	7.99}
+  ],
   "CURRIES": [
     {"name": "Rajama masala", "price": 9.99},
     {"name": "Chole", "price": 9.99},
@@ -39,7 +54,7 @@
     {"name": "Kala Chana", "price": 9.99},
     {"name": "Veg Korma", "price": 11.99}
   ],
-  "Paneer CURRIES": [
+  "PANEER CURRIES": [
     {"name": "Paneer butter masala", "price": 11.99},
     {"name": "Shahi paneer", "price": 11.99},
     {"name": "Matar paneer", "price": 11.99},
@@ -57,6 +72,49 @@
     {"name": "Dahi Bhindi", "price": 13.99},
     {"name": "bagara baigan", "price": 14.99}
   ],
+  "RICE":[
+      {"name":"Plain rice", "price":	5.99},
+      {"name":"Jeera rice", "price":	7.99},
+      {"name":"Egg Fried rice", "price":	11.99},
+      {"name":"Paneer fried rice", "price":	11.99},
+      {"name":"Veg pulao", "price":11.99},
+      {"name":"Tawa pulao", "price":	9.99},
+      {"name":"Pea's pulao", "price":	9.99},
+      {"name":"Lemon rice", "price":	9.99},
+      {"name":"Masala rice", "price":	9.99},
+      {"name":"Masala khichdi", "price":	11.99},
+      {"name":"Veg biriyani", "price":	12.99},
+      {"name":"Plain Khichadi", "price":	9.99},
+      {"name":"Yogurt rice / Dahi Bhaat", "price":	9.99}
+  ],
+  "INDIAN BREADS":[
+      {"name":"Plain roti/Chapati" , "price":	1},
+      {"name":"Phulka roti", "price":	1},
+      {"name":"Partha" , "price":1},
+      {"name":"Aloo partha"	, "price":2},
+      {"name":"Mix veg chilla", "price":1.25},
+      {"name":"Paneer partha"	, "price":2},
+      {"name":"Methi Thepla"	, "price":1},
+      {"name":"Plain puri"	, "price":0.75},
+      {"name":"Masala Puri"	, "price":0.75},
+      {"name":"Methi puri"	, "price":0.75},
+      {"name":"Jowar bhakari"	, "price":1.5},
+      {"name":"Thalipeeth"	, "price":1.5}
+  ],
+  "DAL/LENTILS":[
+    {"name":"Pancham dal"	, "price":	11.99},
+    {"name":"Toor dal"	, "price":	9.99},
+    {"name":"Split Moong dal"	, "price":	9.99},
+    {"name":"Spinach Dal"	, "price":	9.99},
+    {"name":"Split Masoor dal"	, "price":	9.99},
+    {"name":"Split tUrad dal"	, "price":	9.99},
+    {"name":"Split chana dal"	, "price":	11.99},
+    {"name":"Dal fry"	, "price":	9.99},
+    {"name":"Dal tadka"	, "price":	9.99},
+    {"name":"Dal Makhani"	, "price":	11.99},
+    {"name":"Sambar"	, "price":	12.99}
+  ],
+
   "NON VEGITERIAN SPECIALITIES": [
     {"name": "Kolhapuri chicken", "price": 15},
     {"name": "pandhara rassa", "price": 15},
@@ -65,5 +123,16 @@
     {"name": "Egg Curry", "price": 12},
     {"name": "Egg Bhurji", "price": 12},
     {"name": "Chicken Biryani", "price": 15}
+  ],
+
+  "SPECIAL DESSERTS":[
+    {"name": "HomeMade vanilla Icecreme", "price":4.99},
+    {"name": "Moong dal halwa", "price":12.99},
+    {"name": "Gajar Halwa"	, "price":12.99},
+    {"name": "Shevaya kheer"	, "price":10.99},
+    {"name": "Rice Kheer"	, "price":10.99},
+    {"name": "Sooji Kheer"	, "price":10.99},
+    {"name": "Cracked Wheet Kheer"	, "price":13.99}
   ]
+
 }
