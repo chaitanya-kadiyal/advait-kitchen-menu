@@ -34,8 +34,8 @@
     {"name": "Khaman Dhokla", "price":	9.99},
     {"name": "Poha", "price":	9.99},
     {"name": "Mix Veg Upma", "price":	9.99},
-    {"name": "Idali 6piece", "price":	11.99},
-    {"name": "Appam 12piece", "price":	11.99},
+    {"name": "Idali Plate/6Piece", "price":	11.99},
+    {"name": "Appam Plate/6Piece", "price":	11.99},
     {"name": "Marmara Bhel", "price":	7.99}
   ],
   "CURRIES": [
