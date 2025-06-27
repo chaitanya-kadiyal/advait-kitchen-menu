@@ -1,6 +1,6 @@
 {
   "Maharashtrian SPECIALS": [
-    {"name": "Sprouted Mataki usal", "price": 12.99},
+    {"name": "Sprouted Mataki Usal", "price": 12.99},
     {"name": "Potato Bhaji", "price": 12.99},
     {"name": "Sprouted Green Moong Usal", "price": 12.99},
     {"name": "Akkha Massor", "price": 12.99},
@@ -11,7 +11,7 @@
     {"name": "Palak Dal Sabji / Palak Gargatta", "price": 12.99},
     {"name": "Besan Pithal", "price": 10.99},
     {"name": "Milk Besan Pital", "price": 12.99},
-    {"name": "Nagpur style Shev bhaji", "price": 11.99},
+    {"name": "Nagpur Style Shev Bhaji", "price": 11.99},
     {"name": "Batata Vada 2 pieces / 1 plate", "price": 7},
     {"name": "Misal Paav", "price": 13.99},
     {"name": "Katvada", "price": 9.99},
@@ -24,7 +24,7 @@
     {"name": "Kadhi Vada", "price": 12.99}
   ],
   "DESI SNACKS":[
-    {"name": "Special Pav-bhaji", "price":	12.99},
+    {"name": "Special Pav-Bhaji", "price":	12.99},
     {"name": "Ragda Patties", "price":	11.99},
     {"name": "Kala Channa Chat", "price":	9.99},
     {"name": "Chilli Paneer", "price":	14.99},
