@@ -59,18 +59,18 @@
     {"name": "Bhindi Masala", "price": 13.99},
     {"name": "Bharwa Bhindi", "price": 13.99},
     {"name": "Dahi Bhindi", "price": 13.99},
-    {"name": "Bagara Baigan", "price": 14.99}
+    {"name": "Bagara Baigan", "price": 14.99},
+    {"name": "Veg Kolhapuri", "price": 11.99},
+    {"name": "Mix Veg Paneer", "price": 11.99},
+    {"name": "Methi Matar Malai", "price": 11.99}
   ],
   "PANEER CURRIES": [
     {"name": "Paneer Butter Masala", "price": 11.99},
     {"name": "Shahi Paneer", "price": 11.99},
     {"name": "Matar Paneer", "price": 11.99},
     {"name": "Palak Paneer", "price": 11.99},
-    {"name": "Methi Matar Malai", "price": 11.99},
     {"name": "Paneer Tika Masala", "price": 11.99},
-    {"name": "Kadhi Paneer", "price": 11.99},
-    {"name": "Veg Kolhapuri", "price": 11.99},
-    {"name": "Mix Veg Paneer", "price": 11.99}
+    {"name": "Kadhai Paneer", "price": 11.99}
   ],
   "RICE":[
       {"name":"Plain Rice", "price":	5.99},
